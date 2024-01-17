@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="server-down"></a>
+  <a href="https://github.com/vyasanbmathew5/server-down"><img src="https://github.com/vyasanbmathew5/server-down/blob/main/.%20gitignore/server-down.png" alt="server-down"></a>
   <br>
   server-down
   <br>
