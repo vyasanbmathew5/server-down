@@ -17,7 +17,7 @@
 ## Usage
 
 ```shell script
-$ apk install git -y
+apt install git -y
 ```
 
 ```shell script
