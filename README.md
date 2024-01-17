@@ -7,8 +7,6 @@
 </h1>
 
 
-<p align="center">A free and open-source SMS/Call bombing application</p>
-
 ## Disclaimer 
 
 >This tool is intended strictly for educational purposes to understand network security and should only be used in environments where you have explicit authorization.
