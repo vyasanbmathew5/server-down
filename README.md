@@ -14,7 +14,7 @@
 >This tool is intended strictly for educational purposes to understand network security and should only be used in environments where you have explicit authorization.
 >I am not responsible for any kind of damage or problems. Use at your own risk.
 
->If you just know how ddos attack works and dont know how ethicals hackers track you even you use tor vpn then stay away from this othervise welcome to jail
+>If you just know how ddos attack works and dont know how ethicals hackers track you even you use tor vpn then stay away from this othervise welcome to jail.
 
 ## Usage
 
@@ -38,5 +38,16 @@ apt install figlet
 apt install httpx
 ```
 
+```shell script
+https://github.com/vyasanbmathew5/server-down
+```
+
+```shell script
+cd server-down
+```
+
+```shell script
+python server-down.py
+```
 
 </p>
