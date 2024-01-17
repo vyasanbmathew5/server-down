@@ -45,6 +45,10 @@ cd server-down
 ```
 
 ```shell script
+chmod +x *
+```
+
+```shell script
 python server-down.py
 ```
 
